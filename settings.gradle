@@ -1,2 +1,3 @@
+include ':MusicPlayer'
 include ':app'
 rootProject.name = "Android library"
